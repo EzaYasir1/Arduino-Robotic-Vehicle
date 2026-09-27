@@ -15,7 +15,7 @@ Note: Demonstration Video also included.
 |Arduino Uno|1|
 |L298N motor driver module|1|
 |DC gear motors|4 (2 left, 2 right)|
-|HC-05 or HC-06 Bluetooth module|1|
+|HC-05  Bluetooth module|1|
 |4x AAA battery pack|1|
 
 ## Circuit
